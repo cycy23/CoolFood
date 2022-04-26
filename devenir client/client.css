@@ -1,1 +1,71 @@
+*
+{
+margin:0;
+}
 
+body{
+
+    background-image: url("pizza.jpg");
+background-position:center;
+background-size:cover;
+}
+
+.logo{
+height:70px;
+width:150px;}
+
+#nav-bar{
+background:rgb(0, 0, 0);
+overflow:hidden;}
+
+a{
+text-decoration:none;
+color:orange;
+
+}
+
+.container{
+display:grid;
+grid-template-columns: 6fr 2fr;
+align-items:center;
+}
+
+ul {
+display:flex;}
+
+ul li a {
+padding:2 rem;}
+
+li{
+margin-left:62px;
+font-size:14px;
+}
+
+.form-container{
+display:grid;
+place-items:center;
+margin:50px;
+padding:50px;
+background-color: rgba(5, 5, 4, 0.597) ;
+border-radius: 25px;
+border: 2px solid rgba(186, 105, 40, 0);
+}
+
+.button{
+background-color:#FF5E0E;
+color:white;
+border-radius: 10px;
+border: none;
+padding: 5px 3px;
+text-align:center;
+display: inline-block;
+
+}
+
+.field{
+width:500px;
+padding:10px;
+margin: 8px 0;
+border-radius: 10px;
+border:none;
+}
