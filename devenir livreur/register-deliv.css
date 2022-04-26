@@ -1,0 +1,35 @@
+
+container{ display:contents ;}
+#une{height: 40%;display: flex;margin-top: 0px;}
+#deux{sdisplay:contents;justify-items: end;border: spacing 0;margin-left: 30%;margin-top: 5%;}
+body{background-color: #ffffff;margin: 0%;background-image: url("back-liv.jpg"); background-size: cover;}
+#logo{width: 200px;margin-left: 1px;height: 100px;}
+#barre-haute{margin-top: 30px;margin-left: 600px;padding-inline: 10px;font-size: 25px;}
+a{text-decoration: none;color:black;font-size: large;}
+input{ padding:10px 40px; background:#ffffffbd; width:500px; border-radius:25px;border: none;margin-bottom: 2%; font-size: 20px;}
+inder2-1{display: flex;}
+#bt-start{ width: 200px;background-color: #ff6f00;color: white;font-size: 20px;}
+select{padding:10px 40px; background:#ffffffbd; width:590px; border-radius:25px;border: none;margin-bottom: 2%;font-size: 20px;color: gray;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
